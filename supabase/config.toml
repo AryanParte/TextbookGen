@@ -1,0 +1,5 @@
+
+project_id = "ehxxafnabhdmuottdgah"
+
+[functions.generate-textbook]
+verify_jwt = false
